@@ -31,8 +31,8 @@
 
 
 ## 📫 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:https://latetime.tistory.com)
-[![Tistory](https://img.shields.io/badge/Blog-Tistory-brightgreen?style=flat)](https://gwon9906.tistory.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:gwon9906@gmail.com)
+[![Tistory](https://img.shields.io/badge/Blog-Tistory-brightgreen?style=flat)](https://latetime.tistory.com)
 
 
 
