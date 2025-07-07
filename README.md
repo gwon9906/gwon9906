@@ -27,7 +27,7 @@
 | **[Lightweight-MF-BAM](https://github.com/gwon9906/Lightweight-MF-BAM)**       | MF‑BAM for compression                 | NumPy · ML Theory  |
 | **[ChirpChirp](https://github.com/4xvgal/ChirpChirp)**                         | ML compression + LoRa data link (E22)  | Python · Bam       |
 | **[Bitcoin CNN-LSTM](https://github.com/gwon9906/search-trend-bitcoin-model)** | Search‑trend‑aware BTC price predictor | CNN · LSTM         |
-| **[TOEIC Listening App](https://github.com/gwon9906/TOEIC-Listening-App)**     | AI-assisted TOEIC LC trainer           | Speech Recognition |
+
 
 
 ## 📫 Contact Me
